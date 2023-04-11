@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack developer.
+I am a Front End & Mobile developer.
